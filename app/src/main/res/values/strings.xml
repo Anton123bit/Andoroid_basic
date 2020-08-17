@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">View</string>
+    <string name="e_mail">Введите свой e-mail</string>
+    <string name="identification">Для входа в систему требуется идентификация</string>
+    <string name="enter_password">Введите пароль</string>
+    <string name="check_box">Принимаю соглашение</string>
+    <string name="login">Подтверждаю</string>
+    <string name="loginOn">Пользователь найден</string>
+
+</resources>
